@@ -7,7 +7,7 @@
 
 using namespace std;
 
-#define N 500
+#define N 50
 
 long long head,tail,freq;
 __m256d t1,t2,t3,t4;
