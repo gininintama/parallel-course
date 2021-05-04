@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1618304339 source:c:\parallel\test2\lu\main.cpp
+	<iostream>
+	<immintrin.h>
+	<nmmintrin.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<time.h>
+
