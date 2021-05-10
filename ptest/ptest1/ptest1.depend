@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620474340 source:c:\parallel\ptest\ptest1\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<xmmintrin.h>
+	<fstream>
+	<immintrin.h>
+	<pthread.h>
+
