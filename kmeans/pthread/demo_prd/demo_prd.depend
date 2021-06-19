@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1622562893 source:c:\parallel\kmeans\pthread\demo_prd\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<pmmintrin.h>
+	<algorithm>
+	<pthread.h>
+	<fstream>
+	<vector>
+

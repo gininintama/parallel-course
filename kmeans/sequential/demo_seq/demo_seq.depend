@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1622824807 source:c:\parallel\kmeans\sequential\demo_seq\main.cpp
+	<fstream>
+	<sstream>
+	<vector>
+	<ctime>
+	<algorithm>
+	<math.h>
+	<windows.h>
+	<vector>
+	<map>
+	<queue>
+	<fstream>
+	<sstream>
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<set>
+	<climits>
+	<omp.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623080773 source:c:\parallel\ptest\openmp\mpitest\main.cpp
+	"mpi.h"
+	<stdio.h>
+	<math.h>
+	<string>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<omp.h>
+	<pmmintrin.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1622825093 source:c:\parallel\kmeans\openmp\demo_omp\main.cpp
+	<fstream>
+	<sstream>
+	<vector>
+	<ctime>
+	<algorithm>
+	<math.h>
+	<windows.h>
+	<omp.h>
+	<vector>
+	<map>
+	<queue>
+	<fstream>
+	<sstream>
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<set>
+	<climits>
+	<omp.h>
+

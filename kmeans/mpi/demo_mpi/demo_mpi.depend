@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622611782 source:c:\parallel\kmeans\mpi\demo_mpi\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<ctime>
+	<algorithm>
+	<math.h>
+	<windows.h>
+	<mpi.h>
+	<time.h>
+

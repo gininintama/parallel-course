@@ -4,3 +4,14 @@
 	<stdlib.h>
 	<windows.h>
 
+1622818972 source:c:\parallel\test\main.cpp
+	"mpi.h"
+	<stdio.h>
+	<math.h>
+	<string>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<omp.h>
+	<pmmintrin.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621719929 source:c:\parallel\ptest\openmp\test\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<pmmintrin.h>
+	<omp.h>
+
